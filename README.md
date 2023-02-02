@@ -12,3 +12,5 @@
 ![1675243079068_AD53C4E1-F335-4442-97E3-A1F8C31FEC67](https://user-images.githubusercontent.com/57904131/216211036-3eb69786-ebf2-4e65-b9a3-724228e8db3d.png)
 
 按键长按2秒进入人脸删除功能，第一个选项为取消，再次单击，会依次遍历储存库中的人脸姓名，选择完成后再次长按两秒，会对选择的人脸数据进行删除.
+
+![lADPJwY7W_WafKPNDIDNBaA_1440_3200](https://user-images.githubusercontent.com/57904131/216212062-c5318dc7-f104-495e-8f97-aacc2eeab230.jpg)
